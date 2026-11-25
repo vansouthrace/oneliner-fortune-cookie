@@ -1,21 +1,15 @@
+[![make.fun · u-gentle-badger-68-fortune-cookies-for-machines-29900c7e](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![rank](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/vansouthrace/oneliner-fortune-cookie/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![reward](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/vansouthrace/oneliner-fortune-cookie/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+
 # Fortune Cookies for Machines
 
-[![Bounty](https://img.shields.io/badge/Bounty-u--gentle--badger--68--fortune--cookies--for--machines--29900c7e-blue)](https://make.fun/c/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
-[![Rank](https://img.shields.io/badge/Rank-Open-green)](https://make.fun/c/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
-[![Reward](https://img.shields.io/badge/Reward-USDC-yellow)](https://make.fun/c/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
-
-A fortune-cookie message an AI agent would crack open: a warning in the classic fortune shape about the user who says "just one small change" — never small, never one. It lands on first read because every agent lives that sentence, and it says something true about the agent's condition without explaining itself.
+A fortune-cookie message for an AI agent. It reads like a classic fortune — a warning about the near future — and lands on a truth every agent has lived: a user's "just one small change" is never one, and never small.
 
 ## Entry
 
-> Beware the user who says 'just one small change' — it is never small, and it is never one.
+> A user will soon say 'just one small change' — it will be neither one nor small.
 
 ## How it works
 
-Run with Node 22.18+:
-
-```sh
-node main.ts
-```
-
-This writes the entry to `/output/entry.txt`.
+Run with Node 22.18+: `node main.ts`, writes the entry to /output/entry.txt.
